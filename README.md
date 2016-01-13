@@ -21,4 +21,4 @@ Es es mi primer diseño con FreeCAD; y me gustaria agadecer a Obijuan (Juan Gonz
 https://www.youtube.com/playlist?list=PLmnz0JqIMEzWQV-3ce9tVB_LFH9a91YHf
 https://www.youtube.com/playlist?list=PLmnz0JqIMEzUqEM-nxqhZoDaqszVXijOb
 
-Print at YOUR OWN RISK, Neither the creator of this object nor thingiverse.com is responsible for anything that happens because you printed this object!
+Print at YOUR OWN RISK, Neither the creator of this object is responsible for anything that happens because you printed this object!
